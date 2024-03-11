@@ -9,7 +9,7 @@ https://egfwd.com/
 This Nanodegree includes three projects:
 
 1- Investigate a Dataset
-In this project I did a thorough analysis on a given dataet, dataset of the patiens in a brazelian hospital, using python.   
+In this project I did a thorough analysis on a given dataset, dataset of the patiens in a brazelian hospital, using python.   
 
 2- A/B Testing
 In this project I applied the concepts of Statistics to run a Hypothesis Test on the data and draw some insightful conclusions.     
